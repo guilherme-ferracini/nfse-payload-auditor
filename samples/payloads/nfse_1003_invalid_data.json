@@ -1,0 +1,11 @@
+{
+  "number": "1003",
+  "issue_date": "2026-10-09",
+  "provider": {"cnpj": "44.555.666/0001-81", "simples_nacional_optant": false},
+  "taker": {"cnpj": "98.765.432/0001-99", "name": "Cliente Teste Ltda", "email": "contato@clienteteste.example"},
+  "service": {"code": "14.01.01", "description": "Suporte tecnico"},
+  "amounts": {"service_value": 2500.00, "iss_rate": 0.015, "iss_value": 40.00,
+              "pis": 16.25, "cofins": 75.00, "csll": 25.00, "irrf": 37.50},
+  "accountant": {"cnpj": "11.222.333/0001-81"},
+  "send_email_to_taker": true
+}

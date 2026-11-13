@@ -1,0 +1,11 @@
+{
+  "number": "1002",
+  "issue_date": "2026-10-07",
+  "provider": {"cnpj": "44.555.666/0001-81", "simples_nacional_optant": true},
+  "taker": {"cnpj": "12.312.312/0001-10", "name": "Comercial Exemplo Ltda", "email": ""},
+  "service": {"code": "01.05.01", "description": "Locacao de equipamento e suporte mensal"},
+  "amounts": {"service_value": 1200.00, "iss_rate": 0.02, "iss_value": 24.00,
+              "pis": 0, "cofins": 0, "csll": 0, "irrf": 0},
+  "accountant": {"cnpj": ""},
+  "send_email_to_taker": false
+}

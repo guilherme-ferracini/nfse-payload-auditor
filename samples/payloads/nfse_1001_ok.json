@@ -1,0 +1,11 @@
+{
+  "number": "1001",
+  "issue_date": "2026-10-05",
+  "provider": {"cnpj": "44.555.666/0001-81", "simples_nacional_optant": false},
+  "taker": {"cnpj": "77.888.999/0001-81", "name": "Campo Bom Agricola Ltda", "email": "fiscal@campobom.example"},
+  "service": {"code": "01.05.01", "description": "Licenciamento de uso de software de gestao - outubro/2026"},
+  "amounts": {"service_value": 4800.00, "iss_rate": 0.02, "iss_value": 96.00,
+              "pis": 31.20, "cofins": 144.00, "csll": 48.00, "irrf": 72.00},
+  "accountant": {"cnpj": "11.222.333/0001-81"},
+  "send_email_to_taker": true
+}
