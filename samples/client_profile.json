@@ -1,0 +1,10 @@
+{
+  "company": "Orbita Tecnologia Ltda (fictional)",
+  "cnpj": "44.555.666/0001-81",
+  "tax_regime": "regime_normal",
+  "allowed_service_codes": ["01.05.01", "01.07.01"],
+  "iss_rate": 0.02,
+  "forbidden_terms": ["locacao de equipamento", "cessao de mao de obra", "intermediacao"],
+  "accountant_cnpj": "11.222.333/0001-81",
+  "federal_taxes_expected": true
+}
